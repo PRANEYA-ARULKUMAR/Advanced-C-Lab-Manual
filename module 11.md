@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7d8bf2da-3e79-45e9-80ce-9d0a6c119af2)# NAME : A PRANEYA
+# NAME : A PRANEYA
 # REG NO:212224110045
 # EXP NO:21 C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
 Aim:
