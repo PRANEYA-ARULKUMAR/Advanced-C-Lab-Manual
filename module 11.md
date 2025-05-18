@@ -106,7 +106,10 @@ int main() {
     return 0;
 }
 ```
+
 Output:
+
+
 ![Screenshot 2025-05-18 184223](https://github.com/user-attachments/assets/2c5bf233-59d5-4f34-801b-635ebfbd4f1f)
 
 Result:
@@ -187,6 +190,8 @@ int main() {
 ```
 
 Output:
+
+
 ![Screenshot 2025-05-18 184317](https://github.com/user-attachments/assets/a14a6181-22b9-4268-b67e-9c63443649bb)
 
 
@@ -232,6 +237,8 @@ int main() {
 ```
 
 Output:
+
+
 ![Screenshot 2025-05-18 184406](https://github.com/user-attachments/assets/68e85d32-5b44-4adc-8833-7ebe16ac95d0)
 
 Result:
@@ -288,6 +295,8 @@ int main() {
 }
 ```
 Output:
+
+
 ![Screenshot 2025-05-18 184501](https://github.com/user-attachments/assets/c6ffad68-a17c-49a6-9b24-7dc3ef95e6d4)
 
 Result:
