@@ -40,6 +40,8 @@ int main() {
 }
 ```
 Output:
+
+
 ![Screenshot 2025-05-18 184119](https://github.com/user-attachments/assets/6b3f613e-3f81-4cd4-a843-faf5598759e5)
 
 
