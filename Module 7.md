@@ -51,7 +51,10 @@ Output:
 
 ![Screenshot 2025-05-18 115415](https://github.com/user-attachments/assets/49c6b413-701c-48f2-95e0-97218101b68c)
 
+
 Result:
+
+
 Thus, the program is verified successfully. 
 
 
@@ -101,7 +104,10 @@ Output:
 
 ![Screenshot 2025-05-18 162617](https://github.com/user-attachments/assets/4e1ad449-298c-4580-8a6b-78a091782ee1)
 
+
 Result:
+
+
 Thus, the program is verified successfully
 
  
@@ -159,7 +165,10 @@ Output:
 
 ![Screenshot 2025-05-18 163030](https://github.com/user-attachments/assets/718cd139-b9e2-4cb4-879c-cc00a996d018)
 
+
 Result:
+
+
 Thus, the program is verified successfully
  
 
@@ -213,7 +222,11 @@ int main() {
 Output:
 
 ![Screenshot 2025-05-18 163550](https://github.com/user-attachments/assets/971c7565-7050-4096-871f-843bbd754fc0)
+
+
 Result:
+
+
 Thus, the program is verified successfully
 
 # Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
@@ -285,4 +298,6 @@ Output:
 
 
 Result:
+
+
 Thus, the program is verified successfully
